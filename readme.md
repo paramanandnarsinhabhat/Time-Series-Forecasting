@@ -25,7 +25,7 @@ To run the scripts, you will need the following Python libraries:
 ## File Descriptions
 
 - `time_series_naive.py`: This script contains the Python code for time series forecasting using the naive approach.
-
+- `Time_series_Naive Approach`: This notebook contains the Python code for time series forecasting using naive  approach
 ## Implementation Details
 
 1. Data is read from CSV files into pandas DataFrames.
